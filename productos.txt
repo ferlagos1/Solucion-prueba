@@ -1,0 +1,3 @@
+{'nombre': 'arroz', 'categoria': 'comida', 'cantidad': 2, 'precio': 433.65037381634875}
+{'nombre': 'leche', 'categoria': 'lacteos', 'cantidad': 5, 'precio': 175.25650209005533}
+{'nombre': 'fideos', 'categoria': 'comida', 'cantidad': 10, 'precio': 452.30153280698363}
